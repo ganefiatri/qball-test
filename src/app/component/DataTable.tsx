@@ -1,6 +1,6 @@
 // components/DataTable.js
 import React, { useEffect, useState } from 'react';
-import { User } from '../@types/user';
+import { User } from '../../@types/user';
 import Link from 'next/link';
 import Image from "next/image";
 

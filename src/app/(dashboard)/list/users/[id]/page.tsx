@@ -1,5 +1,5 @@
 "use client"
-import { Post, User } from "@/app/@types/user";
+import { Post, User } from "@/@types/user";
 import Image from "next/image";
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
